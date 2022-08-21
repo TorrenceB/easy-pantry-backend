@@ -1,0 +1,589 @@
+{
+  "vegetarian": false,
+  "vegan": false,
+  "glutenFree": false,
+  "dairyFree": false,
+  "veryHealthy": false,
+  "cheap": false,
+  "veryPopular": false,
+  "sustainable": false,
+  "lowFodmap": false,
+  "weightWatcherSmartPoints": 26,
+  "gaps": "no",
+  "preparationMinutes": -1,
+  "cookingMinutes": -1,
+  "aggregateLikes": 17,
+  "healthScore": 14,
+  "pricePerServing": 407.09,
+  "extendedIngredients": [
+    {
+      "id": 10011693,
+      "aisle": "Canned and Jarred",
+      "image": "tomatoes-canned.png",
+      "consistency": "SOLID",
+      "name": "canned tomatoes",
+      "nameClean": "canned tomatoes",
+      "original": "14 ounces can Italian diced tomatoes, do not drain",
+      "originalName": "Italian diced tomatoes, do not drain",
+      "amount": 14,
+      "unit": "ounces",
+      "meta": ["diced", "italian", "canned"],
+      "measures": {
+        "us": { "amount": 14, "unitShort": "oz", "unitLong": "ounces" },
+        "metric": { "amount": 396.893, "unitShort": "g", "unitLong": "grams" }
+      }
+    },
+    {
+      "id": 10093727,
+      "aisle": "Pasta and Rice;Refrigerated;Frozen",
+      "image": "tortellini-isolated.jpg",
+      "consistency": "SOLID",
+      "name": "cheese tortellini",
+      "nameClean": "refrigerated cheese tortellini",
+      "original": "1 bag frozen cheese tortellini",
+      "originalName": "frozen cheese tortellini",
+      "amount": 1,
+      "unit": "bag",
+      "meta": ["frozen"],
+      "measures": {
+        "us": { "amount": 1, "unitShort": "bag", "unitLong": "bag" },
+        "metric": { "amount": 1, "unitShort": "bag", "unitLong": "bag" }
+      }
+    },
+    {
+      "id": 6080,
+      "aisle": "Canned and Jarred",
+      "image": "stock-cube.jpg",
+      "consistency": "SOLID",
+      "name": "chicken stock cube",
+      "nameClean": "chicken base",
+      "original": "1 chicken bullion cube, crushed",
+      "originalName": "chicken bullion cube, crushed",
+      "amount": 1,
+      "unit": "",
+      "meta": ["crushed"],
+      "measures": {
+        "us": { "amount": 1, "unitShort": "", "unitLong": "" },
+        "metric": { "amount": 1, "unitShort": "", "unitLong": "" }
+      }
+    },
+    {
+      "id": 11297,
+      "aisle": "Produce;Spices and Seasonings",
+      "image": "parsley.jpg",
+      "consistency": "SOLID",
+      "name": "fresh parsley",
+      "nameClean": "parsley",
+      "original": "2 teaspoons chopped fresh parsley",
+      "originalName": "chopped fresh parsley",
+      "amount": 2,
+      "unit": "teaspoons",
+      "meta": ["fresh", "chopped"],
+      "measures": {
+        "us": { "amount": 2, "unitShort": "tsps", "unitLong": "teaspoons" },
+        "metric": { "amount": 2, "unitShort": "tsps", "unitLong": "teaspoons" }
+      }
+    },
+    {
+      "id": 2049,
+      "aisle": "Produce;Spices and Seasonings",
+      "image": "thyme.jpg",
+      "consistency": "SOLID",
+      "name": "fresh thyme",
+      "nameClean": "thyme",
+      "original": "4 teaspoons of fresh or dried thyme",
+      "originalName": "fresh or dried thyme",
+      "amount": 4,
+      "unit": "teaspoons",
+      "meta": ["fresh"],
+      "measures": {
+        "us": { "amount": 4, "unitShort": "tsps", "unitLong": "teaspoons" },
+        "metric": { "amount": 4, "unitShort": "tsps", "unitLong": "teaspoons" }
+      }
+    },
+    {
+      "id": 11215,
+      "aisle": "Produce",
+      "image": "garlic.png",
+      "consistency": "SOLID",
+      "name": "garlic cloves",
+      "nameClean": "garlic",
+      "original": "2 large garlic cloves, minced",
+      "originalName": "garlic cloves, minced",
+      "amount": 2,
+      "unit": "large",
+      "meta": ["minced"],
+      "measures": {
+        "us": { "amount": 2, "unitShort": "large", "unitLong": "larges" },
+        "metric": { "amount": 2, "unitShort": "large", "unitLong": "larges" }
+      }
+    },
+    {
+      "id": 1049,
+      "aisle": "Milk, Eggs, Other Dairy",
+      "image": "fluid-cream.jpg",
+      "consistency": "SOLID",
+      "name": "half and half",
+      "nameClean": "half and half",
+      "original": "1 1/2 cups heavy cream or half and half (both are equally good)",
+      "originalName": "heavy cream or half and half (both are equally good)",
+      "amount": 1.5,
+      "unit": "cups",
+      "meta": ["good", "(both are equally )"],
+      "measures": {
+        "us": { "amount": 1.5, "unitShort": "cups", "unitLong": "cups" },
+        "metric": {
+          "amount": 354.882,
+          "unitShort": "ml",
+          "unitLong": "milliliters"
+        }
+      }
+    },
+    {
+      "id": 4053,
+      "aisle": "Oil, Vinegar, Salad Dressing",
+      "image": "olive-oil.jpg",
+      "consistency": "LIQUID",
+      "name": "olive oil",
+      "nameClean": "olive oil",
+      "original": "4 Tbs. olive oil",
+      "originalName": "olive oil",
+      "amount": 4,
+      "unit": "Tbs",
+      "meta": [],
+      "measures": {
+        "us": { "amount": 4, "unitShort": "Tbs", "unitLong": "Tbs" },
+        "metric": { "amount": 4, "unitShort": "Tbs", "unitLong": "Tbs" }
+      }
+    },
+    {
+      "id": 1033,
+      "aisle": "Cheese",
+      "image": "parmesan.jpg",
+      "consistency": "SOLID",
+      "name": "parmesan cheese",
+      "nameClean": "parmesan",
+      "original": "Freshly-grated Parmesan cheese for garnish",
+      "originalName": "Freshly-grated Parmesan cheese for garnish",
+      "amount": 4,
+      "unit": "servings",
+      "meta": ["freshly-grated", "for garnish"],
+      "measures": {
+        "us": { "amount": 4, "unitShort": "servings", "unitLong": "servings" },
+        "metric": {
+          "amount": 4,
+          "unitShort": "servings",
+          "unitLong": "servings"
+        }
+      }
+    },
+    {
+      "id": 1102047,
+      "aisle": "Spices and Seasonings",
+      "image": "salt-and-pepper.jpg",
+      "consistency": "SOLID",
+      "name": "Salt & Pepper",
+      "nameClean": "salt and pepper",
+      "original": "Salt and freshly grounded pepper to taste",
+      "originalName": "Salt and freshly grounded pepper to taste",
+      "amount": 4,
+      "unit": "servings",
+      "meta": ["to taste"],
+      "measures": {
+        "us": { "amount": 4, "unitShort": "servings", "unitLong": "servings" },
+        "metric": {
+          "amount": 4,
+          "unitShort": "servings",
+          "unitLong": "servings"
+        }
+      }
+    },
+    {
+      "id": 15270,
+      "aisle": "Seafood",
+      "image": "shrimp.png",
+      "consistency": "SOLID",
+      "name": "shrimp",
+      "nameClean": "shrimp",
+      "original": "1/2 pound large fresh or frozen shrimp (thawed, peeled and tails removed)",
+      "originalName": "fresh or frozen shrimp (thawed, peeled and tails removed)",
+      "amount": 0.5,
+      "unit": "pound",
+      "meta": ["fresh", "thawed", "peeled", "(, and tails removed)"],
+      "measures": {
+        "us": { "amount": 0.5, "unitShort": "lb", "unitLong": "pounds" },
+        "metric": { "amount": 226.796, "unitShort": "g", "unitLong": "grams" }
+      }
+    }
+  ],
+  "id": 637593,
+  "title": "Cheese Tortellini With Shrimp In Tomato Cream Sauce",
+  "readyInMinutes": 45,
+  "servings": 4,
+  "sourceUrl": "http://www.foodista.com/recipe/ZTD3WYNC/cheese-tortellini-with-shrimp-in-tomato-cream-sauce",
+  "image": "https://spoonacular.com/recipeImages/637593-556x370.jpg",
+  "imageType": "jpg",
+  "summary": "Cheese Tortellini With Shrimp In Tomato Cream Sauce might be just the main course you are searching for. For <b>$4.07 per serving</b>, this recipe <b>covers 24%</b> of your daily requirements of vitamins and minerals. Watching your figure? This pescatarian recipe has <b>895 calories</b>, <b>48g of protein</b>, and <b>45g of fat</b> per serving. From preparation to the plate, this recipe takes about <b>45 minutes</b>. A couple people made this recipe, and 17 would say it hit the spot. If you have parmesan cheese, parsley, olive oil, and a few other ingredients on hand, you can make it. To use up the olive oil you could follow this main course with the <a href=\"https://spoonacular.com/recipes/sauteed-banana-granola-and-yogurt-parfait-624619\">Sauteed Banana, Granolan and Yogurt Parfait</a> as a dessert. All things considered, we decided this recipe <b>deserves a spoonacular score of 67%</b>. This score is pretty good. Try <a href=\"https://spoonacular.com/recipes/shrimp-tortellini-in-tomato-cream-for-two-412654\">Shrimp & Tortellini in Tomato Cream for Two</a>, <a href=\"https://spoonacular.com/recipes/tortellini-shrimp-skewers-with-sun-dried-tomato-sauce-427400\">Tortellini & Shrimp Skewers with Sun-Dried Tomato Sauce</a>, and <a href=\"https://spoonacular.com/recipes/tortellini-with-tomato-cream-sauce-417827\">Tortellini with Tomato-Cream Sauce</a> for similar recipes.",
+  "cuisines": [],
+  "dishTypes": ["lunch", "main course", "main dish", "dinner"],
+  "diets": ["pescatarian"],
+  "occasions": [],
+  "instructions": "<ol><li>Thaw frozen shrimp according to package directions if using frozen, and then peel, devein and rinse shrimp in a colander.</li><li>While shrimp are draining, fill a medium size saucepan with cold water and cook tortellini according to package directions.  Do NOT overcook your tortellini, no more than 2-3 mins once tortellini are added to boiling water.</li><li>Drain pasta and set aside.</li><li>Using the same saucepan combine diced tomatoes, crushed bullion, parsley and thyme and bring to a low simmer.</li><li>While tomatoes are simmering bring a large skillet to medium heat and add olive oil.  Heat olive oil and add minced garlic, cooking just until slightly opaque (approx. 1 min).  Add garlic and olive oil to tomatoes, stir.  Taking a fork crush tomatoes, breaking up the pieces until you have a chunky sauce.</li><li>Add cream to skillet that you used for garlic and bring to a low simmer.  Add tomato sauce, Parmesan cheese and salt and pepper to taste to cream and bring to slow simmer</li><li>Add cream to skillet that you used for garlic and bring to a slow simmer.</li><li>Add tomato sauce, Parmesan cheese and salt and pepper to taste to cream and bring back up to a slow simmer.</li><li>Reduce heat on cream sauce to low to keep warm and continue to stir occasionally.</li><li>At this point you can butterfly your shrimp, which helps to make the amount of shrimp seem more substantial, but this is not a necessary step.</li><li>To butterfly your shrimp, place on cutting board and with a very sharp knife, open up shrimp along the back but not cutting all the way through.</li><li>Add shrimp to cream sauce and cover, allowing shrimp to cook for approximately 4-5 minutes.</li><li>Add tortellini to pan coating  with cream sauce and seasoning if necessary with additional salt and pepper.  Remove from heat.</li><li>Plate and top with a sprinkle of shredded parmesan cheese.</li></ol>",
+  "analyzedInstructions": [
+    {
+      "name": "",
+      "steps": [
+        {
+          "number": 1,
+          "step": "Thaw frozen shrimp according to package directions if using frozen, and then peel, devein and rinse shrimp in a colander.While shrimp are draining, fill a medium size saucepan with cold water and cook tortellini according to package directions.  Do NOT overcook your tortellini, no more than 2-3 mins once tortellini are added to boiling water.",
+          "ingredients": [
+            {
+              "id": 93727,
+              "name": "tortellini",
+              "localizedName": "tortellini",
+              "image": "tortellini-isolated.jpg"
+            },
+            {
+              "id": 15270,
+              "name": "shrimp",
+              "localizedName": "shrimp",
+              "image": "shrimp.png"
+            },
+            {
+              "id": 14412,
+              "name": "water",
+              "localizedName": "water",
+              "image": "water.png"
+            }
+          ],
+          "equipment": [
+            {
+              "id": 404639,
+              "name": "colander",
+              "localizedName": "colander",
+              "image": "colander.jpg"
+            },
+            {
+              "id": 404669,
+              "name": "sauce pan",
+              "localizedName": "sauce pan",
+              "image": "sauce-pan.jpg"
+            }
+          ],
+          "length": { "number": 3, "unit": "minutes" }
+        },
+        {
+          "number": 2,
+          "step": "Drain pasta and set aside.Using the same saucepan combine diced tomatoes, crushed bullion, parsley and thyme and bring to a low simmer.While tomatoes are simmering bring a large skillet to medium heat and add olive oil.",
+          "ingredients": [
+            {
+              "id": 4053,
+              "name": "olive oil",
+              "localizedName": "olive oil",
+              "image": "olive-oil.jpg"
+            },
+            {
+              "id": 11529,
+              "name": "tomato",
+              "localizedName": "tomato",
+              "image": "tomato.png"
+            },
+            {
+              "id": 11297,
+              "name": "parsley",
+              "localizedName": "parsley",
+              "image": "parsley.jpg"
+            },
+            {
+              "id": 20420,
+              "name": "pasta",
+              "localizedName": "pasta",
+              "image": "fusilli.jpg"
+            },
+            {
+              "id": 2049,
+              "name": "thyme",
+              "localizedName": "thyme",
+              "image": "thyme.jpg"
+            }
+          ],
+          "equipment": [
+            {
+              "id": 404669,
+              "name": "sauce pan",
+              "localizedName": "sauce pan",
+              "image": "sauce-pan.jpg"
+            },
+            {
+              "id": 404645,
+              "name": "frying pan",
+              "localizedName": "frying pan",
+              "image": "pan.png"
+            }
+          ]
+        },
+        {
+          "number": 3,
+          "step": "Heat olive oil and add minced garlic, cooking just until slightly opaque (approx. 1 min).",
+          "ingredients": [
+            {
+              "id": 0,
+              "name": "minced garlic",
+              "localizedName": "minced garlic",
+              "image": "garlic.png"
+            },
+            {
+              "id": 4053,
+              "name": "olive oil",
+              "localizedName": "olive oil",
+              "image": "olive-oil.jpg"
+            }
+          ],
+          "equipment": [],
+          "length": { "number": 1, "unit": "minutes" }
+        },
+        {
+          "number": 4,
+          "step": "Add garlic and olive oil to tomatoes, stir.  Taking a fork crush tomatoes, breaking up the pieces until you have a chunky sauce.",
+          "ingredients": [
+            {
+              "id": 4053,
+              "name": "olive oil",
+              "localizedName": "olive oil",
+              "image": "olive-oil.jpg"
+            },
+            {
+              "id": 11529,
+              "name": "tomato",
+              "localizedName": "tomato",
+              "image": "tomato.png"
+            },
+            {
+              "id": 11215,
+              "name": "garlic",
+              "localizedName": "garlic",
+              "image": "garlic.png"
+            },
+            { "id": 0, "name": "sauce", "localizedName": "sauce", "image": "" }
+          ],
+          "equipment": []
+        },
+        {
+          "number": 5,
+          "step": "Add cream to skillet that you used for garlic and bring to a low simmer.",
+          "ingredients": [
+            {
+              "id": 11215,
+              "name": "garlic",
+              "localizedName": "garlic",
+              "image": "garlic.png"
+            },
+            {
+              "id": 1053,
+              "name": "cream",
+              "localizedName": "cream",
+              "image": "fluid-cream.jpg"
+            }
+          ],
+          "equipment": [
+            {
+              "id": 404645,
+              "name": "frying pan",
+              "localizedName": "frying pan",
+              "image": "pan.png"
+            }
+          ]
+        },
+        {
+          "number": 6,
+          "step": "Add tomato sauce, Parmesan cheese and salt and pepper to taste to cream and bring to slow simmer",
+          "ingredients": [
+            {
+              "id": 1033,
+              "name": "parmesan",
+              "localizedName": "parmesan",
+              "image": "parmesan.jpg"
+            },
+            {
+              "id": 1102047,
+              "name": "salt and pepper",
+              "localizedName": "salt and pepper",
+              "image": "salt-and-pepper.jpg"
+            },
+            {
+              "id": 11549,
+              "name": "tomato sauce",
+              "localizedName": "tomato sauce",
+              "image": "tomato-sauce-or-pasta-sauce.jpg"
+            },
+            {
+              "id": 1053,
+              "name": "cream",
+              "localizedName": "cream",
+              "image": "fluid-cream.jpg"
+            }
+          ],
+          "equipment": []
+        },
+        {
+          "number": 7,
+          "step": "Add cream to skillet that you used for garlic and bring to a slow simmer.",
+          "ingredients": [
+            {
+              "id": 11215,
+              "name": "garlic",
+              "localizedName": "garlic",
+              "image": "garlic.png"
+            },
+            {
+              "id": 1053,
+              "name": "cream",
+              "localizedName": "cream",
+              "image": "fluid-cream.jpg"
+            }
+          ],
+          "equipment": [
+            {
+              "id": 404645,
+              "name": "frying pan",
+              "localizedName": "frying pan",
+              "image": "pan.png"
+            }
+          ]
+        },
+        {
+          "number": 8,
+          "step": "Add tomato sauce, Parmesan cheese and salt and pepper to taste to cream and bring back up to a slow simmer.Reduce heat on cream sauce to low to keep warm and continue to stir occasionally.At this point you can butterfly your shrimp, which helps to make the amount of shrimp seem more substantial, but this is not a necessary step.To butterfly your shrimp, place on cutting board and with a very sharp knife, open up shrimp along the back but not cutting all the way through.",
+          "ingredients": [
+            {
+              "id": 1033,
+              "name": "parmesan",
+              "localizedName": "parmesan",
+              "image": "parmesan.jpg"
+            },
+            {
+              "id": 1102047,
+              "name": "salt and pepper",
+              "localizedName": "salt and pepper",
+              "image": "salt-and-pepper.jpg"
+            },
+            {
+              "id": 11549,
+              "name": "tomato sauce",
+              "localizedName": "tomato sauce",
+              "image": "tomato-sauce-or-pasta-sauce.jpg"
+            },
+            {
+              "id": 0,
+              "name": "cream sauce",
+              "localizedName": "cream sauce",
+              "image": ""
+            },
+            {
+              "id": 15270,
+              "name": "shrimp",
+              "localizedName": "shrimp",
+              "image": "shrimp.png"
+            },
+            {
+              "id": 1053,
+              "name": "cream",
+              "localizedName": "cream",
+              "image": "fluid-cream.jpg"
+            }
+          ],
+          "equipment": [
+            {
+              "id": 404716,
+              "name": "cutting board",
+              "localizedName": "cutting board",
+              "image": "cutting-board.jpg"
+            },
+            {
+              "id": 404745,
+              "name": "knife",
+              "localizedName": "knife",
+              "image": "chefs-knife.jpg"
+            }
+          ]
+        },
+        {
+          "number": 9,
+          "step": "Add shrimp to cream sauce and cover, allowing shrimp to cook for approximately 4-5 minutes.",
+          "ingredients": [
+            {
+              "id": 0,
+              "name": "cream sauce",
+              "localizedName": "cream sauce",
+              "image": ""
+            },
+            {
+              "id": 15270,
+              "name": "shrimp",
+              "localizedName": "shrimp",
+              "image": "shrimp.png"
+            }
+          ],
+          "equipment": [],
+          "length": { "number": 5, "unit": "minutes" }
+        },
+        {
+          "number": 10,
+          "step": "Add tortellini to pan coating  with cream sauce and seasoning if necessary with additional salt and pepper.",
+          "ingredients": [
+            {
+              "id": 1102047,
+              "name": "salt and pepper",
+              "localizedName": "salt and pepper",
+              "image": "salt-and-pepper.jpg"
+            },
+            {
+              "id": 0,
+              "name": "cream sauce",
+              "localizedName": "cream sauce",
+              "image": ""
+            },
+            {
+              "id": 93727,
+              "name": "tortellini",
+              "localizedName": "tortellini",
+              "image": "tortellini-isolated.jpg"
+            },
+            {
+              "id": 1042027,
+              "name": "seasoning",
+              "localizedName": "seasoning",
+              "image": "seasoning.png"
+            }
+          ],
+          "equipment": [
+            {
+              "id": 404645,
+              "name": "frying pan",
+              "localizedName": "frying pan",
+              "image": "pan.png"
+            }
+          ]
+        },
+        {
+          "number": 11,
+          "step": "Remove from heat.Plate and top with a sprinkle of shredded parmesan cheese.",
+          "ingredients": [
+            {
+              "id": 1033,
+              "name": "parmesan",
+              "localizedName": "parmesan",
+              "image": "parmesan.jpg"
+            }
+          ],
+          "equipment": []
+        }
+      ]
+    }
+  ],
+  "sourceName": null,
+  "creditsText": null,
+  "originalId": null,
+  "spoonacularSourceUrl": "https://spoonacular.com/cheese-tortellini-with-shrimp-in-tomato-cream-sauce-637593",
+  "tags": []
+}
